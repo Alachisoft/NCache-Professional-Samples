@@ -13,13 +13,11 @@
 
 This sample program demonstrates how to use the NCache messaging API to publish or subscribe messages. It shows how to create, get or delete a TOPIC and publish or subscribe messages on it.
 
-This sample has 3 projects:
+This sample has 2 projects:
 
 1) Publisher:              It will create two TOPICS, publish some messages on it and then deletes those TOPICS.
 2) Non Durable Subscriber: It will create or get a TOPIC and then create subscription on it.
 						   It will create pattern based subscriptions on all the topics matching the specified pattern.
-3) Durable Subscriber:	   It will create or get a TOPIC and then create durable subscription on it with subscription policy types shared and 
-                           exclusive. It will also create pattern based durable subscriptions on all the topics matching the provided pattern.
 
 ### Prerequisites
 
@@ -33,7 +31,6 @@ Before the sample application is executed make sure that:
     
 - Build Solution 
 - Run the NonDurableSubscriber.
-- Run the DurableSubscriber.
 - Run the Publisher.
 
 
