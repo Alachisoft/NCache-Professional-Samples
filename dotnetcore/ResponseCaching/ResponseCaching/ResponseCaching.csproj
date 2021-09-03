@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="NCache.Microsoft.Extensions.Caching.Professional" Version="5.2.0" />
+    <PackageReference Include="NCache.Microsoft.Extensions.Caching.Professional" Version="5.2.0.1" />
   </ItemGroup>
 
   <ItemGroup>
