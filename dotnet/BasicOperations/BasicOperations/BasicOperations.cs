@@ -9,11 +9,11 @@
 // ===============================================================================
 
 using Alachisoft.NCache.Runtime;
-using Alachisoft.NCache.Sample.Data;
 using Alachisoft.NCache.Client;
 using System;
 using System.Configuration;
 using Alachisoft.NCache.Runtime.Caching;
+using Alachisoft.NCache.Sample.Data;
 
 namespace Alachisoft.NCache.Samples
 {

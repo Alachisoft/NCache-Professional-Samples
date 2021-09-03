@@ -1,1 +1,0 @@
-# NCache-Professional-Samples
